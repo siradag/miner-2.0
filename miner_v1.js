@@ -49,5 +49,4 @@ app.get('/cripto', async(req, res) => {
     
 });
 
-
 app.listen(port);
